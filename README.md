@@ -1,29 +1,24 @@
-# josh_vuetify_upload
+### [Vuetify] Board
 
-## Project setup
-```
-npm install
-```
+## Step1 : 게시판 조회
+# 게시물 목록 조회
+# 페이징
+# 게시물 검색
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Step2 : 게시글 동작
+# 글쓰기
+# 상세
+# 삭제
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Step3 : 댓글 기능
+# 댓글등록
+# 댓글조회
+# 댓글수정
+# 댓글삭제
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Step4 : 추가 기능
+# 새로운 게시글 표시 (new)
+# 다크모드 on/off
+# 모달형식/페이지형식 설정
+# 카테고리 기능 (카테고리 관리, 글 입력시 카테고리 선택, 카테고리 검색)
+# 태그 기능(태그 검색)

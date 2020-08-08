@@ -37,7 +37,7 @@ export default {
     search: '',
     page: 1,
     pageCount: 0,
-    itemsPerPage: 10,
+    itemsPerPage: 5,
     headers: [
       {
         text: 'Dessert (100g serving)',
